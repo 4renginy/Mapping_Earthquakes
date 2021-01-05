@@ -32,7 +32,7 @@ We pulled the data from US geolacigal survey website, retrive the data using jav
 
 Finally we added the faultlines to the map to reflect the relation between sysmic activity of techtonic plates and earthquakes.
 
-![]"https://github.com/4renginy/Module13-Mapping_Earthquakes/blob/main/Capture.PNG"
+![](https://github.com/4renginy/Module13-Mapping_Earthquakes/blob/main/Capture.PNG)
 
 
 
